@@ -88,4 +88,30 @@ they are:
 - informal event driven
 attributes: look, listen, think
 
+## Red Teaming
+> diverse set of SMEs & stakeholders that challenge the plan to ensure it is comprehensive, effective, and achievable
+
+who attends:
+- project team
+- SMEs
+- outside teammates & stakeholders
+
+how to do it:
+- schedule a meeting to present the plan
+- seek plan gaps
+- update plan
+- create contingency (RAID log)
+
+## Deliver Results
+### After Action Review (AAR)
+> it's a structured review or de-brief that analyzes what, why, and how
+goal: compare intended vs actual results
+
+### Closing Overview
+- communication of intent across 2 levels of organization (to avoid 'telephone game')
+- mentor (battle buddy)
+  - 1:1 peer relationships
+  - provide feedback, support, guidance, and perspective
+  - works both ways
+  - forces a step-back to think about leadership
 
